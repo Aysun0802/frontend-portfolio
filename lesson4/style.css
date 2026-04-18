@@ -1,0 +1,18 @@
+body{
+    background-color: lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    width: 400;
+    height: 200;
+
+}
+video{
+    width: auto;
+    height: auto;
+
+}
+iframe{
+    width: 200;
+    height: 100;
+}
