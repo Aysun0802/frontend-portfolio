@@ -1,0 +1,30 @@
+p{
+    color: rgb(241, 230, 230)
+    font-weight: normal;
+}
+
+.roboto-text {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.skills{
+    background-color: #e6eff7;
+}
+h2{
+    color: rgb(225, 225, 229);
+}
+ul{
+    color: rgb(244, 247, 248);
+}
+#btn{
+    background-color: #4CAF50;
+    color: white;
+}
+
+body{
+    background-color: #011516;
+}
