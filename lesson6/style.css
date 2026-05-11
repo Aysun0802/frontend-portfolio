@@ -1,0 +1,64 @@
+body{
+  
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card{
+    width: 350px;
+    background-color: white;
+    padding: 40px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 100px auto;
+    position: relative;
+    text-align: center;
+}
+
+.profile-image{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 1px solid black;
+    object-fit: cover;
+}
+.name{
+    margin-top: 25px;
+    font-size: 23px;
+}
+.info{
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.red-circle{
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.orange-box{
+    width: 40px;
+    height: 40px;
+    background-color: orange;
+    position: relative;
+    top: 30px;
+    left: 140px;
+}
+
+.fixed-button{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    padding: 15px 25px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
